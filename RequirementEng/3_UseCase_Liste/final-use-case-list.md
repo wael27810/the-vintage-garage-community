@@ -36,7 +36,7 @@
 
 | Use-Case-ID | Use Case | Referenz |
 |---|---|---|
-| UC.W.1 |  Ein Werkstattinhaber erstellt ein Konto und hinterlegt Informationen zur der Werkstatt und Unternehmen. | StR.W.1 |
+| UC.W.1 |  Ein Werkstattinhaber erstellt ein Konto und hinterlegt Informationen zu der Werkstatt und Unternehmen. | StR.W.1 |
 | UC.W.2 | Angebotenes Leistungen und Spezialisierungen angeben und verwalten | StR.W.2 |
 | UC.W.3 | Reparaturanfragen von Lagerhatern einsehen und bearbeiten. | StR.W.3 |
 | UC.W.4 | Mit dem Lagerhalter Termine für angefragte Reparatur- und Wartungsarbeiten vereinbaren. | StR.W.3, StR.L.7 |
