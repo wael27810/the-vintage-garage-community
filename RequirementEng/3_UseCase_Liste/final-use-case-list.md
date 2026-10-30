@@ -14,7 +14,7 @@
 | UC.L.5 | Verfügbare Stellplätze nach Kategorie angeben und aktualisieren| StR.L.3 |
 | UC.L.6 | Spezialisierung auf Fahrzeugmarken aus einer vorgegebenen Liste festlegen. | StR.L.4 |
 | UC.L.7 | Aktuelle Informationen zur Fahrbereitschaft und zum Wartungszustand eines eingelagerten Fahrzeugs bereitstellen | StR.L.5 |
-| UC.L.8 | Eine Anfrage für Reparaturen oder Wartungsarbeiten an eine registerte Werkstatt in der Nähe senden. | StR.L.6, StR.W.3 |
+| UC.L.8 | Eine Anfrage für Reparaturen oder Wartungsarbeiten an eine registrierte Werkstatt in der Nähe senden. | StR.L.6, StR.W.3 |
 | UC.L.9  | Einen Termin für die Reparatur - oder Wartungsarbeiten mit einer Werkstatt vereinbaren. | StR.L.7 |
 
 
