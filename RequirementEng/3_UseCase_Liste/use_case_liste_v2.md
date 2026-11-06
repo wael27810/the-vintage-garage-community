@@ -14,7 +14,6 @@
 
 | Use-Case-ID | Use Case | Beschreibung | Referenz |
 |---|---|---|---|
-| UC.L.1 | Als Lagerhalter registeren | Der Lagerhalter erstellt ein Konto und hinterlegt seine grundlegenden Informationen | StR.L.1 | 
 | UC.L.2 |Lagerstandort verwalten | Standort, Anschrift (Adresse des Lagerstandort) und Einlagerungskosten erfassen und pflegen.  | StR.L.1 |
 | UC.L.3 | Lagerbedingungen verwalten | Servicezeiten und Lagerungsbedingungen festlegen, erfassen und verwalten.| StR.L.1 |
 | UC.L.4 | Einlagerungsservices verwalten | Verschiedene Einlagerungsservices anbieten und verwalten | StR.L.2 |
@@ -43,7 +42,6 @@
 
 | Use-Case-ID | Use Case | Beschreibung | Referenz |
 |---|---|---|---|
-| UC.W.1 | Als Werkstatt registrieren | Ein Werkstattinhaber erstellt ein Konto und hinterlegt Informationen zur Werkstatt und Unternehmen. | StR.W.1 |
 | UC.W.2 | Leistungsangebot verwalten | Angebotene Leistungen und Spezialisierungen angeben und verwalten | StR.W.2 |
 | UC.W.3 | Reparaturanfragen empfangen und bearbeiten | Reparaturanfragen von Lagerhaltern einsehen und bearbeiten. | StR.W.3 |
 | UC.W.4 | Werkstatttermine abstimmen | Mit dem Lagerhalter Termine für angefragte Reparatur- und Wartungsarbeiten vereinbaren. | StR.W.3, StR.L.7 |
@@ -53,7 +51,6 @@
 
 | Use-Case-ID | Use Case | Beschreibung | Referenz |
 |---|---|---|---|
-| UC.EA.1 | Als Ersatzteilanbieter registrieren | Ein Ersatzteilhändler erstellt ein Konto als  Oldtimer / Youngtimer und hinterlegt die Unternehmensinformationen. | StR.EA.1 |
 | UC.EA.2 |  Unternehmensinformationen einstellen | | StR.EA.1 |
 | UC.EA.3 | Ersatz- oder Zubehörteil anbieten | | StR.EA.2 |
 | UC.EA.4 | Ersatz- oder Zubehörteil aus Angebot löschen | | StR.EA.2 |
