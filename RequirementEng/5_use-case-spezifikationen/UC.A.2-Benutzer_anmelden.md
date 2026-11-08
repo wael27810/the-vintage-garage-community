@@ -18,7 +18,7 @@
 
 ### 2. Vorbedingungen
 
-- Für den Benutzer ist Regestriert und hat einen Benutzerkonto.
+- Für den Benutzer ist Registriert und hat ein Benutzerkonto.
 - Das System ist Verfügbar
 
 ### 3. Nachbedingungen
@@ -29,7 +29,7 @@
 ### 4. Hauptszenario
 
 1. Der Benutzer startet die Anmeldung, indem er auf den Button "Anmelden" klickt
-2. Das System zeigt die Anmeldesformular an
+2. Das System zeigt das Anmeldeformular an
 3. Der Benutzer trägt seine Anmeldedaten ein.
 4. Der Benutzer bestätigt die Anmeldung.
 5. Das System überprüft die Anmeldedaten
