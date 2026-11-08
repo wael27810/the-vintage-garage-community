@@ -1,18 +1,18 @@
 
 # Use-Case-Spezifikation
 
-## UC.A.1-Benutzer_regestrieren
+## UC.A.1-Benutzer_registrieren
 
 ### 1. Kurzbeschreibung
 
 | Abschnitt | Inhalt |
 |---|---|
 | Use-Case-ID | UC.A.1 |
-| Name | Benutzer_regestrieren |
+| Name | Benutzer_registrieren |
 | Primärer Akteur | Lagerhalter, Werkstattinhaber, Ersatzteilanbieter |
 | Weitere Akteure | - |
 | Stakeholder-Ziel(e) | Benutzerkonto erstellen für die Verwaltung der Dienstleistungen |
-| Auslösendes Ereignis (Trigger) | Der Benutzer möchte eine Bnutzerkoto anlegen und wählt Registrieren |
+| Auslösendes Ereignis (Trigger) | Der Benutzer möchte eine Benutzerkonto anlegen und wählt Registrieren |
 | Beschreibung | Ein Benutzer registriert sich auf der VintageCar-Plattform und legt ein Benutzerkonto passend zu seiner Rolle an. |
 | Beziehung zu anderen Use Cases | - |
 
@@ -29,7 +29,7 @@
 ### 4. Hauptszenario
 
 1. Der Benutzer startet die Registrierung, indem er auf den Button „Registrieren“ klickt
-2. Das System zeigt die Regestrierungsformular an
+2. Das System zeigt das Registrierungsformular an
 3. Der Benutzer trägt seine Registrierungsdaten ein.
 4. Der Benutzer gibt seine Rolle ein.
 5. Das System überprüft die Eingaben
@@ -54,8 +54,8 @@
 
 ### 7. Spezielle Anforderungen
 
-- Registrierungsdaten solen nur für berechtigte Nutzer zugänglich sein
+- Registrierungsdaten sollen nur für berechtigte Nutzer zugänglich sein
 - Passwörter sollen als Hash gespeichert werden 
 - Bei ungültigen Eingaben verständliche Meldungen anzeigen
-- Pflichtfelder eindeutig kennzeichnen
+- Pflichtfelder eindeutig kennzeichnen (z.B. *)
 
