@@ -14,14 +14,14 @@
 
 | Use-Case-ID | Use Case | Beschreibung | Referenz |
 |---|---|---|---|
-| UC.L.2 |Lagerstandort verwalten | Standort, Anschrift (Adresse des Lagerstandort) und Einlagerungskosten erfassen und pflegen.  | StR.L.1 |
-| UC.L.3 | Lagerbedingungen verwalten | Servicezeiten und Lagerungsbedingungen festlegen, erfassen und verwalten.| StR.L.1 |
-| UC.L.4 | Einlagerungsservices verwalten | Verschiedene Einlagerungsservices anbieten und verwalten | StR.L.2 |
-| UC.L.5 | Stellplatzkapazitäten verwalten | Verfügbare Stellplätze nach Kategorie angeben und aktualisieren| StR.L.3 |
-| UC.L.6 | Spezialisierte Fahrzeugmarken verwalten | Spezialisierung auf Fahrzeugmarken aus einer vorgegebenen Liste festlegen. | StR.L.4 |
-| UC.L.7 | Fahrbereitschaft und Wartungsstand aktualisieren | Aktuelle Informationen zur Fahrbereitschaft und zum Wartungszustand eines eingelagerten Fahrzeugs bereitstellen | StR.L.5 |
-| UC.L.8 | Reparatur- oder Wartungsanfrage erstellen | Eine Anfrage für Reparaturen oder Wartungsarbeiten an eine registrierte Werkstatt in der Nähe senden. | StR.L.6, StR.W.3 |
-| UC.L.9  | Werkstatttermin vereinbaren | Einen Termin für die Reparatur - oder Wartungsarbeiten mit einer Werkstatt vereinbaren. | StR.L.7 |
+| UC.L.1 |Lagerstandort verwalten | Standort, Anschrift (Adresse des Lagerstandort) und Einlagerungskosten erfassen und pflegen.  | StR.L.1 |
+| UC.L.2 | Lagerbedingungen verwalten | Servicezeiten und Lagerungsbedingungen festlegen, erfassen und verwalten.| StR.L.1 |
+| UC.L.3 | Einlagerungsservices verwalten | Verschiedene Einlagerungsservices anbieten und verwalten | StR.L.2 |
+| UC.L.4 | Stellplatzkapazitäten verwalten | Verfügbare Stellplätze nach Kategorie angeben und aktualisieren| StR.L.3 |
+| UC.L.5 | Spezialisierte Fahrzeugmarken verwalten | Spezialisierung auf Fahrzeugmarken aus einer vorgegebenen Liste festlegen. | StR.L.4 |
+| UC.L.6 | Fahrbereitschaft und Wartungsstand aktualisieren | Aktuelle Informationen zur Fahrbereitschaft und zum Wartungszustand eines eingelagerten Fahrzeugs bereitstellen | StR.L.5 |
+| UC.L.7 | Reparatur- oder Wartungsanfrage erstellen | Eine Anfrage für Reparaturen oder Wartungsarbeiten an eine registrierte Werkstatt in der Nähe senden. | StR.L.6, StR.W.3 |
+| UC.L.8  | Werkstatttermin vereinbaren | Einen Termin für die Reparatur - oder Wartungsarbeiten mit einer Werkstatt vereinbaren. | StR.L.7 |
 
 
 ### 1.2 Einlagerer
