@@ -6,7 +6,7 @@
 
 | Use-Case-ID | Use Case | Referenz |
 |---|---|---|
-| UC.A.1 | Benutzer registrien | StR.L.1 , StR.W.1 , StR.EA.1 |
+| UC.A.1 | Benutzer registrieren | StR.L.1 , StR.W.1 , StR.EA.1 |
 | UC.A.2 | Benutzer anmelden | StR.L.1 , StR.W.1 , StR.EA.1 |
 
 
@@ -51,9 +51,9 @@
 
 | Use-Case-ID | Use Case | Beschreibung | Referenz |
 |---|---|---|---|
-| UC.EA.2 |  Unternehmensinformationen einstellen | | StR.EA.1 |
-| UC.EA.3 | Ersatz- oder Zubehörteil anbieten | | StR.EA.2 |
-| UC.EA.4 | Ersatz- oder Zubehörteil aus Angebot löschen | | StR.EA.2 |
+| UC.EA.2 |  Unternehmensinformationen einstellen | Der Ersatzteilanbierter kann sich registrieren| StR.EA.1 |
+| UC.EA.3 | Ersatz- oder Zubehörteil anbieten | Verfügbare Ersatz- oder Zubehörteile werden angeboten | StR.EA.2 |
+| UC.EA.4 | Ersatz- oder Zubehörteil aus Angebot löschen | Nicht verfügbare Ersatz- oder Zubehörteile werden nicht mehr angeboten | StR.EA.2 |
 | UC.EA.5 | Artikelreservierungen verwalten | Reservierungen für angebotene Artikel einsehen und bearbeiten. Dieser Use Case ist aus Anbietersicht sinnvoll, wird aber nicht ausdrücklich als eigene Funktion beschrieben. | StR.EA.3 |
 
 
