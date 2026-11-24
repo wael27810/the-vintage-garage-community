@@ -16,6 +16,6 @@
 # Sequenzdiagramme
 
 **Tom**
-1. UC.EA.3: Annehmen/Ablehnen/Erledigt ein alt Fragment? Es löst keine anderen weiteren Sachen mit aus, nur 3 verschiedene Auswahlmöglichkeiten
+1. UC.EA.3: Annehmen/Ablehnen/Erledigt ein "alt" Fragment? Es löst keine anderen weiteren Sachen mit aus, nur 3 verschiedene Auswahlmöglichkeiten
 2. UC.W.2: Dasselbe wie bei 1. mit Annehmen oder Ablehnen
 3. Wie gehen wir mit Alternativszenarien um? Sollen die da teils mit berücksichtigt werden? In meinen Beispielen war jetzt fehlende Berechtigung, möglicherweise auch hier ein allgemeiner Use-Case?  
